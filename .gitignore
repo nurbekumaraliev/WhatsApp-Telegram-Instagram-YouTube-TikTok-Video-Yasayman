@@ -1,0 +1,6 @@
+.env
+*.env
+*.session
+token.json
+client_secret*.json
+store/
