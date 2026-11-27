@@ -2,6 +2,21 @@
 
 Yangi kompyuterni Claude uchun to'liq sozlaydigan promptlar va skill'lar to'plami. Claude hamma narsani o'zi o'rnatadi va ulaydi. Egasi faqat akkauntlarga kiradi, ruxsat beradi, kerakli API kalitni faylga qo'yadi va QR kodni skan qiladi.
 
+## 🚀 Qanday o'rnatiladi — 1 qadam
+
+Claude Code'ni oching va shu xabarni yuboring:
+
+```
+https://github.com/nurbekumaraliev/WhatsApp-Telegram-Instagram-YouTube-TikTok-Video-Yasayman — shuni o'rnat
+```
+
+Qolganini Claude o'zi qiladi. Siz faqat so'ralganda akkauntlarga kirasiz, «Ruxsat berish»ni bosasiz, kalitni ochilgan faylga qo'yasiz va QR'ni skan qilasiz.
+
+> **Claude uchun yo'riqnoma.** Agar foydalanuvchi senga shu repo havolasini berib, uni o'rnatishni so'ragan bo'lsa:
+> 1. Repo arxivini yukla: `https://github.com/nurbekumaraliev/WhatsApp-Telegram-Instagram-YouTube-TikTok-Video-Yasayman/archive/refs/heads/main.tar.gz` → `~/workspace/` ga och (`tar -xzf`; Windows 10/11'da ham `tar.exe` bor). git shart emas.
+> 2. Ochilgan papkadagi `SETUP.md` ni o'qi va undagi hamma qadamlarni tartib bilan, o'zing, oxirigacha bajar.
+> 3. Foydalanuvchiga uning tilida, oddiy so'zlar bilan qisqa ayt: nima o'rnatilishini va undan faqat kirish, ruxsat berish, kalit qo'yish va QR skan qilish so'ralishini. Keyin darhol boshlab yubor.
+
 ## Nimalar o'rnatiladi
 
 | # | Nima | Qanday |
@@ -15,16 +30,15 @@ Yangi kompyuterni Claude uchun to'liq sozlaydigan promptlar va skill'lar to'plam
 | 7 | TikTok | Postiz + Windsor + vidIQ orqali |
 | 8 | WhatsApp (shaxsiy akkaunt) | `lharries/whatsapp-mcp` |
 
-## Ishlatish
+## Batafsil
 
-1. Yangi kompyuterga Claude (desktop ilova yoki Claude Code) o'rnating va o'z akkauntingiz bilan kiring.
-2. Claude'ga shu xabarni yuboring:
-
-> https://github.com/nurbekumaraliev/WhatsApp-Telegram-Instagram-YouTube-TikTok-Video-Yasayman reposini yuklab ol (repo yopiq: kerak bo'lsa GitHub CLI'ni adminsiz o'rnat va men GitHub'ga kiraman), keyin SETUP.md faylini o'qib, undagi hamma qadamlarni boshidan oxirigacha bajar.
-
+1. Kompyuterga Claude (desktop ilova yoki Claude Code) o'rnating va o'z akkauntingiz bilan kiring.
+2. Yuqoridagi xabarni yuboring.
 3. Claude so'raganda faqat: akkauntga kiring, «Ruxsat berish»ni bosing, kalitni ochilgan faylga qo'ying yoki QR'ni skan qiling.
 
 Jarayon to'xtab qolsa — Claude'ga «SETUP.md ni davom ettir» deb yozing. U tugagan qadamlarni o'tkazib yuboradi.
+
+Hammasi kerak emasmi? Masalan «faqat WhatsApp'ni o'rnat» deb yozing — Claude faqat o'sha qadamni bajaradi.
 
 ## Xavfsizlik
 

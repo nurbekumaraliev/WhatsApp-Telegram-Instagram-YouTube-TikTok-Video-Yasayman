@@ -19,6 +19,12 @@ Sen shu kompyuterda ishlayotgan Claude Code'san. Bu kompyuterni 100% Claude ishl
 - Egaga oddiy, texnik bo'lmagan tilda, uning tilida yoz. Har bosqich boshida bir qatorda nima qilayotganingni ayt.
 - OS'ni o'zing aniqla (Windows / macOS / Linux) va buyruqlarni moslashtir. Administrator (UAC/sudo) huquqi talab qiladigan yo'llardan QOCH — hammasini foydalanuvchi papkasiga o'rnat.
 
+## BOSHLASHDAN OLDIN
+
+- Bu repo hali kompyuterda bo'lmasa: `https://github.com/nurbekumaraliev/WhatsApp-Telegram-Instagram-YouTube-TikTok-Video-Yasayman/archive/refs/heads/main.tar.gz` ni `~/workspace/` ga yuklab och. Quyidagi `prompts/` va `skills/` yo'llari shu papkaga nisbatan.
+- Foydalanuvchi faqat ayrim qismlarni so'ragan bo'lsa (masalan «faqat WhatsApp») — faqat o'sha qadam(lar)ni bajar; 1-qadamdan esa faqat kerakli dasturlarni o'rnat.
+- Boshlashda foydalanuvchiga 2–3 qatorda ayt: nima o'rnatiladi, taxminan qancha vaqt oladi va undan nima so'raladi. Keyin darhol boshla.
+
 ## TARTIB
 
 Har bir qadam uchun `prompts/` papkasidagi faylni o'qi va unga to'liq amal qil. Qadam tugagach `~/.claude-setup-holat.json` fayliga `{"qadam": "<nom>", "holat": "tayyor"}` yozib bor. Qayta ishga tushirilsa — tayyor qadamlarni o'tkazib yubor, qolganidan davom et.
