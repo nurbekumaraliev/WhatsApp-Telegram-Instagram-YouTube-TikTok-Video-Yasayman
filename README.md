@@ -1,4 +1,4 @@
-# Claude kompyuter sozlamasi
+# Video yasayman — WhatsApp · Telegram · Instagram · YouTube · TikTok
 
 Yangi kompyuterni Claude uchun to'liq sozlaydigan promptlar va skill'lar to'plami. Claude hamma narsani o'zi o'rnatadi va ulaydi. Egasi faqat akkauntlarga kiradi, ruxsat beradi, kerakli API kalitni faylga qo'yadi va QR kodni skan qiladi.
 
@@ -20,7 +20,7 @@ Yangi kompyuterni Claude uchun to'liq sozlaydigan promptlar va skill'lar to'plam
 1. Yangi kompyuterga Claude (desktop ilova yoki Claude Code) o'rnating va o'z akkauntingiz bilan kiring.
 2. Claude'ga shu xabarni yuboring:
 
-> https://github.com/nurbekumaraliev/claude-kompyuter-setup reposini yuklab ol (repo yopiq: kerak bo'lsa GitHub CLI'ni adminsiz o'rnat va men GitHub'ga kiraman), keyin SETUP.md faylini o'qib, undagi hamma qadamlarni boshidan oxirigacha bajar.
+> https://github.com/nurbekumaraliev/WhatsApp-Telegram-Instagram-YouTube-TikTok-Video-Yasayman reposini yuklab ol (repo yopiq: kerak bo'lsa GitHub CLI'ni adminsiz o'rnat va men GitHub'ga kiraman), keyin SETUP.md faylini o'qib, undagi hamma qadamlarni boshidan oxirigacha bajar.
 
 3. Claude so'raganda faqat: akkauntga kiring, «Ruxsat berish»ni bosing, kalitni ochilgan faylga qo'ying yoki QR'ni skan qiling.
 
